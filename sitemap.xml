@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/timeseries_lstms/</loc>
+    <loc>https://poincare.github.io/posts/timeseries_lstms/</loc>
     <lastmod>2018-01-22T11:59:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://poincare.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-01-22T11:59:34-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://poincare.github.io/</loc>
     <lastmod>2018-01-22T11:59:34-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://poincare.github.io/posts/</loc>
+    <lastmod>2018-01-22T11:59:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poincare.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
